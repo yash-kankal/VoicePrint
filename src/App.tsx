@@ -245,7 +245,7 @@ function App() {
             <span className="brand-mark" aria-hidden="true">
               <img src="/logo.svg" alt="" className="brand-logo" />
             </span>
-            <h1 id="page-title">WordCast</h1>
+            <h1 id="page-title">Voicribe</h1>
           </div>
         </header>
 
